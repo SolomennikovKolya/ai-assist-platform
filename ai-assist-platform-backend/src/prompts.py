@@ -112,7 +112,7 @@ generate_graph_example = {
                 "meta": {
                     "sourceOutputID": "h6"
                 },
-                "api_key": "sk-proj-ENE99ryyWAqNk0u0FlaYT3BlbkFJ2HGCk154IFnqvwjBuiIW",
+                "api_key": "GWefqEFNo13bnkj3b1kjbd1kjb",
                 "model_name": "gpt-4o-mini",
                 "temperature": 0.5,
                 "top_p": 1,
